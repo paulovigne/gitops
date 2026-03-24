@@ -6,7 +6,7 @@ metadata:
   name: wordpress
 spec:
   rules:
-  - host: wordpress.44.221.237.140.sslip.io
+  - host: wordpress.18.232.244.72.sslip.io
     http:
       paths:
       - backend:
